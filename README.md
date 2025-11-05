@@ -39,7 +39,7 @@ This repository is a comprehensive list of Software Engineering jobs for college
 <!-- TABLE_FAANG_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
-| <a href="https://about.meta.com"><strong>Meta</strong></a> | Embedded Software Engineering Intern Applied | Austin, TX | $50/hr | <a href="https://www.metacareers.com/jobs/2659361741072293"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| <a href="https://about.meta.com"><strong>Meta</strong></a> | Embedded Software Engineering Intern Applied | Austin, TX applied| $50/hr | <a href="https://www.metacareers.com/jobs/2659361741072293"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="https://www.salesforce.com"><strong>Salesforce</strong></a> | Summer 2025 Intern - Software Engineer - Security/Government | Washington Bellevue | $54/hr | <a href="https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer--Security-Government-_JR311149-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
 | <a href="https://www.lyft.com"><strong>Lyft</strong></a> | Data Engineer Intern - Summer 2026 | San Francisco, CA | $58/hr | <a href="https://app.careerpuck.com/job-board/lyft/job/8218030002?gh_jid=8218030002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 14d |
 | <a href="https://www.lyft.com"><strong>Lyft</strong></a> | Software Engineer Intern - Mobile iOS - Summer 2026 | San Francisco, CA | $58/hr | <a href="https://app.careerpuck.com/job-board/lyft/job/8215921002?gh_jid=8215921002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 15d |
